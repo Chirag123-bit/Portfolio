@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.af66df69.css",
+    "main.js": "/Portfolio/static/js/main.c9733adc.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/chatify.png": "/Portfolio/static/media/chatify.cdd6a6fcb1b0189092ba.png",
+    "static/media/blog.png": "/Portfolio/static/media/blog.3c2e75f4d0831ad4ec03.png",
+    "static/media/avatar.png": "/Portfolio/static/media/avatar.e1460ef04677e37c7070.png",
+    "static/media/emotion.png": "/Portfolio/static/media/emotion.c485a10498bbe09faef9.png",
+    "static/media/home-main.svg": "/Portfolio/static/media/home-main.abfd694bef9d9b192dd3e07966291f3e.svg",
+    "static/media/about.png": "/Portfolio/static/media/about.373540a87f448aa2f0bc.png",
+    "static/media/codeEditor.png": "/Portfolio/static/media/codeEditor.01486c8cbde9d890eb67.png",
+    "static/media/ChiragSimkhada.pdf": "/Portfolio/static/media/ChiragSimkhada.0eb9cdd59f227de76213.pdf",
+    "static/media/suicide.png": "/Portfolio/static/media/suicide.34965539a81e73df4413.png",
+    "static/media/leaf.png": "/Portfolio/static/media/leaf.a70e4f38da86377df797.png",
+    "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "index.html": "/Portfolio/index.html",
+    "static/media/pre.svg": "/Portfolio/static/media/pre.1ae18671ff4ddc442314.svg",
+    "main.af66df69.css.map": "/Portfolio/static/css/main.af66df69.css.map",
+    "main.c9733adc.js.map": "/Portfolio/static/js/main.c9733adc.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af66df69.css",
+    "static/js/main.c9733adc.js"
+  ]
+}
